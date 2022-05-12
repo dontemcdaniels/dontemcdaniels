@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dontemcdaniels
-- 👀 I’m interested in software development, film photography, sports, and gaming.
+- 👀 I’m interested in software development, photography, sports, and gaming.
 - 🌱 I’m currently learning python, pycharm, github, linux.
 - 💞️ I’m looking to collaborate on useful python projects.
 - 📫 How to reach me dontemmcdaniels@gmail.com
